@@ -1,0 +1,4 @@
+name: ExtendedEssay
+version: '0.1'
+main: me.cirosanchez.extendedEssay.ExtendedEssay
+api-version: '1.20'
